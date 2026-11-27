@@ -106,4 +106,5 @@ Suggestions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first; it's sho
 ## Related lists
 
 - [Awesome](https://github.com/sindresorhus/awesome) — the index of awesome lists this one follows.
+- [Awesome AWS AI Engineering](https://github.com/arslanramay/awesome-aws-ai-engineering) — the AWS-focused companion list: Bedrock, AgentCore, Strands, SageMaker and CDK.
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — runnable LLM, agent and RAG apps to learn from.
