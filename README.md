@@ -1,4 +1,4 @@
-# Awesome AI Engineering — AI Agents, MCP, RAG & LLM Tools
+# AI Engineering Toolkit — AI Agents, MCP, RAG & LLM Tools
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
